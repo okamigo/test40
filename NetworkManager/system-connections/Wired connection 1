@@ -1,0 +1,21 @@
+[connection]
+id=Wired connection 1
+uuid=f0af2c11-fed5-3f2d-9d70-bcba882dafec
+type=ethernet
+autoconnect-priority=-999
+permissions=
+timestamp=1591911772
+
+[ethernet]
+cloned-mac-address=00:0C:29:22:3E:7C
+mac-address=00:0C:29:22:3E:7C
+mac-address-blacklist=
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=ignore

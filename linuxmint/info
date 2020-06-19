@@ -1,0 +1,10 @@
+RELEASE=19.3
+CODENAME=tricia
+EDITION="Cinnamon"
+DESCRIPTION="Linux Mint 19.3 Tricia"
+DESKTOP=Gnome
+TOOLKIT=GTK
+NEW_FEATURES_URL=https://www.linuxmint.com/rel_tricia_cinnamon_whatsnew.php
+RELEASE_NOTES_URL=https://www.linuxmint.com/rel_tricia_cinnamon.php
+USER_GUIDE_URL=https://www.linuxmint.com/documentation.php
+GRUB_TITLE=Linux Mint 19.3 Cinnamon
